@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, world!");
+    println!("Run: cargo run --bin file_search");
 }
